@@ -1,0 +1,3 @@
+[submodule "get-cdr-sunat"]
+	path = get-cdr-sunat
+	url = https://github.com/cvjuan270/get-cdr-sunat.git
